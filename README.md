@@ -1,4 +1,4 @@
-# 🏥 Smart Healthcare Appointment and Record System
+# 🏥 Smart Healthcare Appointment and Record System - CureQuest
 
 A comprehensive full-stack healthcare management system built with the MERN stack that enables efficient appointment scheduling, medical record management, and prescription generation for clinics and small hospitals.
 
@@ -465,3 +465,4 @@ For support, email support@yourdomain.com or create an issue in the repository.
 
 
 ⭐ Star this repo if you find it helpful!
+
