@@ -1,0 +1,23 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+```
+
+## Your public folder structure should look like:
+```
+frontend/
+├── public/
+│   ├── icon.ico
+│   ├── index.html
+│   ├── manifest.json
+│   └── robots.txt
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── store/
+│   ├── utils/
+│   ├── App.js
+│   ├── index.js
+│   └── index.css
+├── package.json
+└── tailwind.config.js
