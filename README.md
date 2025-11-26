@@ -336,7 +336,8 @@ healthcare-system/
 |   |   |__ index.css
 │   ├── package.json
 │   └── .env
-│
+│── docker-compose.yml
+|
 └── README.md
 ```
 
@@ -441,7 +442,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - Initial work - [YourGitHub](https://github.com/yourusername)
+- Shivam Mude - Initial work - [YourGitHub](https://github.com/shivammude)
 
 ## 🙏 Acknowledgments
 
@@ -455,14 +456,12 @@ For support, email support@yourdomain.com or create an issue in the repository.
 
 ## 🔗 Links
 
-- [Live Demo](https://your-demo-url.com)
 - [API Documentation](https://your-api-docs.com)
-- [Project Board](https://github.com/yourusername/healthcare-system/projects)
-- [Report Bug](https://github.com/yourusername/healthcare-system/issues)
-- [Request Feature](https://github.com/yourusername/healthcare-system/issues)
+- [Project Board](https://github.com/shivammude/CureQuest-Smart-Healthcare-System)
 
 ---
 
 **Made with ❤️ for better healthcare management**
+
 
 ⭐ Star this repo if you find it helpful!
