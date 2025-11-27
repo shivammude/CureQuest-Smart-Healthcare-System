@@ -342,6 +342,10 @@ healthcare-system/
 ```
 
 ## 🖼️ Screenshots
+### Landing Page, Login Page and Registration Page
+Advanced login system and reset password system.
+
+![Get Started](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Get%20Started%20Page.png)
 
 ### Patient Dashboard
 Dashboard showing upcoming appointments and health overview.
@@ -465,4 +469,5 @@ For support, email support@yourdomain.com or create an issue in the repository.
 
 
 ⭐ Star this repo if you find it helpful!
+
 
