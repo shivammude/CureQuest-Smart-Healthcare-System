@@ -342,22 +342,125 @@ healthcare-system/
 ```
 
 ## 🖼️ Screenshots
+
 ### Landing Page, Login Page and Registration Page
 Advanced login system and reset password system.
 
 ![Get Started](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Get%20Started%20Page.png)
 
-### Patient Dashboard
+![Login Page](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Login%20Page.png)
+
+![Register](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Registration%20Page.png)
+
+![forgot password](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Forgot%20Password%20Page.png)
+
+### Patients Dashboard
 Dashboard showing upcoming appointments and health overview.
+
+![Patient Dashboard](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Patient%20Dashboard%20Page.png)
+
+![other options on ui](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Other%20Options%20on%20UI.png)
+
+### Doctors Dashboard
+Dashboard showing the upcoming appointments of all the patients booked under their respective doctors.
+
+![doctor dashboard](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Doctor%20Dashboard%20Page.png)
+
+![doctor weekly updates](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Doctor's%20Schedule%20and%20Weekly%20Updates.png)
+
+![other options](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Other%20Options%20on%20Doctor%20Dashboard.png)
+
+![doctor scheduled appointments](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Doctor%20Appointments.png)
+
+![Appointments Card On Doctors UI](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Appointments%20Card%20On%20Doctors%20UI.png)
+
+![doctor patient tab](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Doctor%20Patients.png)
+
+![doctor patient details](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Doctor%20Patient%20Details.png)
+
+### Admin Dashboard
+Dashboard of admin displays all the users, appointments and doctors account.
+
+![admin dashboard](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Admin%20Dashboard.png)
+
+![monitoring status](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Monitor%20Stats%20Feature.png)
+
+![other options](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Other%20Options%20On%20Admin%20UI.png)
+
+![admin users page](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Admin%20Users%20Page.png)
+
+![admin doctor page](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Admin%20Doctor%20Page.png)
+
+![admin patient page](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Admin%20Patient%20Page.png)
+
+![admin view appointment page](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Admin%20Appointment%20Page.png)
+
+![admin update password](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Admin%20Update%20Password%20Page.png)
 
 ### Book Appointment
 Three-step process: Select Doctor → Choose Date/Time → Confirm Details
 
+![my appointments page](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/My%20Appointments%20Page.png)
+
+![appointment card](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Patient%20Appointments%20Card.png)
+
+![book appointment](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Book%20Appointment%20Page.png)
+
+![appointment date booking page](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Appointment%20Date%20Booking%20Page.png)
+
+![time slots](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Appointment%20Time%20Slots.png)
+
+![final page](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Appointment%20Final%20Page.png)
+
+![confirmation page](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Appointment%20Confirm%20Page.png)
+
 ### Prescription Generator
 Digital prescription with medication details and doctor's advice.
 
+![prescription page](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/My%20Prescriptions%20Page.png)
+
+![prescription cards](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Prescription%20Cards.png)
+
+![prescription details](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Prescription%20Details.png)
+
+![doctor advice ui](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Doctor's%20Advice%20UI.png)
+
+![prescription download & print button](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Prescription%20Download%20Button.png)
+
+![Doctors Prescription Page](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Doctors%20Prescription%20Page.png)
+
 ### Medical Records
 Complete patient medical history with diagnoses and treatments.
+
+![expand recent medical records](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Expand%20Recent%20Medical%20Records.png)
+
+![create medical records](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Create%20Medical%20Records%20Page.png)
+
+![patient medications](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Patient%20Medications.png)
+
+![Patient Medical Records on Doctors UI](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Patient%20Medical%20Records%20on%20Doctors%20UI.png)
+
+![Patient Medical History on Doctors UI](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Patient%20Medical%20History%20on%20Doctors%20UI.png)
+
+![Patient Provided Notes on Doctors UI](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Patient%20Provided%20Notes%20on%20Doctors%20UI.png)
+
+### Profile Pages
+Showing the profile of doctors, patients and admins.
+
+![patient profile page](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Patient%20Profile%20Page.png)
+
+![doctors profile](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Doctors%20Profile%20Page.png)
+
+![admin profile page](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Admin%20Profile%20Page.png)
+
+### Supplemental Navigations
+Informative pages that describes Contact, Terms of Service and Privacy Policy Info.
+
+![Contact Us](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Contact%20Us%20Page.png)
+
+![terms of service](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Terms%20Of%20Service%20Page.png)
+
+![privacy policy](https://github.com/shivammude/CureQuest-Smart-Healthcare-System/blob/master/Privacy%20Policy%20Page.png)
 
 ## 🧪 Testing
 
@@ -469,5 +572,6 @@ For support, email support@yourdomain.com or create an issue in the repository.
 
 
 ⭐ Star this repo if you find it helpful!
+
 
 
